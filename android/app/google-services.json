@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234296783201",
+    "project_id": "minhas-viagens-357013",
+    "storage_bucket": "minhas-viagens-357013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234296783201:android:0b9b64413d271c6d79d520",
+        "android_client_info": {
+          "package_name": "net.kalangos.minhas_viagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234296783201-hpc4uduio5t4baqcblde3g9oac3gjipf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmMoPF8LoLFPdKfkUN7zGlqEasbtsy8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234296783201-hpc4uduio5t4baqcblde3g9oac3gjipf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
